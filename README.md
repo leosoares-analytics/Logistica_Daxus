@@ -43,7 +43,13 @@ Este projeto tem como finalidade monitorar e analisar o **transporte de cargas e
 
 ## Resultados e Impacto
 - Identificação de **27,6% das entregas com atraso**, possibilitando planos de ação para reduzir gargalos.  
-- Reconhecimento dos **clientes mais relevantes (38,9% do faturamento concentrado em 2 clientes)**, apoiando negociações estratégicas.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/486f8102-e9a7-4ed7-9e33-12e84d8edd00" width="500px" />
+</div>
+
+<!-- <img width="274" height="284" alt="Image" src="https://github.com/user-attachments/assets/486f8102-e9a7-4ed7-9e33-12e84d8edd00" /> -->
+
 - Estados que mais geram receita são Distrito Federal, Rio de Janeiro e Rio Grande do Sul no periodo analisado.
 
 <div align="center">
