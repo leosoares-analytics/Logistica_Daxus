@@ -45,7 +45,7 @@ Este projeto tem como finalidade monitorar e analisar o **transporte de cargas e
 - Identificação de **27,6% das entregas com atraso**, possibilitando planos de ação para reduzir gargalos.  
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/486f8102-e9a7-4ed7-9e33-12e84d8edd00" width="500px" />
+<img src="https://github.com/user-attachments/assets/486f8102-e9a7-4ed7-9e33-12e84d8edd00" width="250px" />
 </div>
 
 <!-- <img width="274" height="284" alt="Image" src="https://github.com/user-attachments/assets/486f8102-e9a7-4ed7-9e33-12e84d8edd00" /> -->
