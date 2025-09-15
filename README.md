@@ -1,34 +1,52 @@
-# Analise Logistica
-## Banco de dados
+# Dashboard de Gestão Logística
 
-Banco de dados feita pela [Daxus](https://www.daxus.com.br/treinamentos).
+## Objetivo
+Este projeto tem como finalidade monitorar e analisar o **transporte de cargas e o gerenciamento de entregas**, permitindo identificar atrasos, principais clientes, transportadoras e destinos, além de fornecer indicadores financeiros estratégicos.
 
-### Colunas do Banco de dados
+---
 
-- NotaFiscal: Nota fiscal do pedido.
-- Pedido: Data do pedido.
-- Origem/Destino: Local do pedido.
-- Cliente: Cliente destinatário.
-- Cod_Cliente: Código do cliente no sistema.
-- Valor Total: Valor gasto pelo cliente.
-- Peso Carga (Kg): Peso da carga a ser enviada.
-- Classificacao: Urgência da entrega.
-- Prazo: Prazo máximo de entrega.
-- Data Coleta: Data da coleta do pedido na matriz.
-- Data Entrega: Data de entrega do pedido ao cliente.
-- Dias Entrega: Tempo real de entrega do pedido.
+## Principais KPIs
+- **Valor faturado:** R$ 11,63 Mi  
+- **Total de entregas:** 5.348  
+- **Ticket médio:** R$ 2,17 mil  
+- **% Entregas no prazo vs atrasadas**  
+- **Clientes mais representativos (Carrefour, Magazine Luiza, Lojas Renner, etc.)**  
+- **Transportadoras contratadas e volume de entregas**  
+- **Principais destinos no Brasil**  
 
-## Analise
+---
 
-Analise Feita em Power BI com gráficos de status de entrega, clientes, transportadoras, faturamento, total de entregas, ticket médio, analise temporal e de principais destinos.
+## Ferramentas Utilizadas
+- **Power BI** (modelagem de dados, DAX, visualização)  
+- **Power Query** (ETL e transformação de dados)  
+- **Excel** (Limpeza prévia dos dados)  
 
-### Analises e perguntas a serem respondidas
+---
 
-- Analise exploratória e correção de erros no banco de dados.
+## Pipeline de Dados
+1. **Extração:** [indicar a fonte dos dados, ex.: CSV/SQL/ERP]  
+2. **Transformação:** ajustes de tipos de dados, tratamento de outliers, normalização  
+3. **Modelagem:** criação de modelo relacional (fato de entregas + dimensões de clientes, transportadoras, tempo, etc.)  
+4. **Visualização:** dashboard interativo em Power BI  
 
-## Conclusões
+---
 
-- Aumento de 10% no atraso de entregas do ano de 2020 para 2021 e 2022
-- Aumento de 0,3  Mil entregas do ano de 2020 para 2021, entretanto com diminuição de 1,9 mil entregas de 2021 para 2022.
+## Resultados e Impacto
+- Identificação de **27,6% das entregas com atraso**, possibilitando planos de ação para reduzir gargalos.  
+- Reconhecimento dos **clientes mais relevantes (38,9% do faturamento concentrado em 2 clientes)**, apoiando negociações estratégicas.  
+- Análise de transportadoras para comparação de desempenho e custos.  
+- Suporte à decisão em logística com **visualização geográfica dos principais destinos**.  
+- Redução de tempo de análise de relatórios manuais de várias horas/semana para poucos minutos.  
 
-## Propostas
+---
+
+## Visualizações do Dashboard
+
+div align="center"
+img src="https://github.com/user-attachments/assets/6aa10feb-1ec8-49df-9b3f-9f98765b077e" width="700px" /
+/div
+
+<!-- <img width="1305" height="730" alt="Image" src="https://github.com/user-attachments/assets/6aa10feb-1ec8-49df-9b3f-9f98765b077e" /> -->
+
+
+
