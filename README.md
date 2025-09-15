@@ -42,9 +42,9 @@ Este projeto tem como finalidade monitorar e analisar o **transporte de cargas e
 
 ## Visualizações do Dashboard
 
-div align="center"
-img src="https://github.com/user-attachments/assets/6aa10feb-1ec8-49df-9b3f-9f98765b077e" width="700px" /
-/div
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6aa10feb-1ec8-49df-9b3f-9f98765b077e" width="700px" />
+</div>
 
 <!-- <img width="1305" height="730" alt="Image" src="https://github.com/user-attachments/assets/6aa10feb-1ec8-49df-9b3f-9f98765b077e" /> -->
 
