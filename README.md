@@ -43,10 +43,26 @@ Este projeto tem como finalidade monitorar e analisar o **transporte de cargas e
 
 ## Resultados e Impacto
 - Identificação de **27,6% das entregas com atraso**, possibilitando planos de ação para reduzir gargalos.  
-- Reconhecimento dos **clientes mais relevantes (38,9% do faturamento concentrado em 2 clientes)**, apoiando negociações estratégicas.  
-- Análise de transportadoras para comparação de desempenho e custos.  
+- Reconhecimento dos **clientes mais relevantes (38,9% do faturamento concentrado em 2 clientes)**, apoiando negociações estratégicas.
+- Estados que mais geram receita são Distrito Federal, Rio de Janeiro e Rio Grande do Sul no periodo analisado.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/45e5d5bd-5a7a-478a-8034-149d038c7293" width="500px" />
+</div>
+
+<!-- <img width="744" height="552" alt="Image" src="https://github.com/user-attachments/assets/45e5d5bd-5a7a-478a-8034-149d038c7293" /> -->
+
+- Apesar do aumento de R$ 0,36 no ticket médio no periodo de 2021 para 2022, ocorreu a redução drástica no total de entregas, com queda de 90% de 2021 para 2022, tendo uma queda no lucro proporcional.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1f90805a-3d7a-419f-a393-45684320a224" width="500px" />
+</div>
+
+<!-- <img width="648" height="576" alt="Image" src="https://github.com/user-attachments/assets/1f90805a-3d7a-419f-a393-45684320a224" /> -->
+
+<!-- - Análise de transportadoras para comparação de desempenho e custos.  
 - Suporte à decisão em logística com **visualização geográfica dos principais destinos**.  
-- Redução de tempo de análise de relatórios manuais de várias horas/semana para poucos minutos.  
+- Redução de tempo de análise de relatórios manuais de várias horas/semana para poucos minutos. -->
 
 
 
